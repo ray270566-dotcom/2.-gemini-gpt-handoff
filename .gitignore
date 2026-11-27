@@ -1,0 +1,25 @@
+# 密钥与本地配置，绝不进仓库
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+**/credentials*.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+
+# 冷备份产物不进仓库，单独拷到云盘
+*.bundle
+backup/
