@@ -1,4 +1,4 @@
-# Gemini × GPT 交接工作流修订方案
+# Gemini × GPT 交接工作流修订方案（出具者：OpenAI Codex）
 
 提案日期为 2026-11-27，审查基线为 [`d499df2`](https://github.com/ray270566-dotcom/2.-gemini-gpt-handoff/tree/d499df285a7316810080049c81059fceed289827)。本文供审阅，所述流程待采纳和试跑。
 
